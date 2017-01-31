@@ -157,7 +157,7 @@ figure {
 
 .card {
   min-width: 14  rem;
-  padding: 0.   5rem;
+  padding: 0.5rem;
 
   border-radius: 0.1rem;
 
@@ -226,7 +226,7 @@ figure {
 }
 
 .quote__card {
-  position: relative
+  position: relative;
   padding: 0.5rem;
 
   border-radius: 0.1rem;
